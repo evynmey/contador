@@ -1,13 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
 
 :root{
-    --background-topicos: #1e1e1e;
-    --barra-interativa: #D90F0F;
+    --background-topicos: #000000;
+    --barra-interativa: #d15e5e;
     --branco: #fff;
     --btn-ativo: #361717;
     --borda: #151515;
     --black: #000;
-    --fonte: "Anta", sans-serif;
+    --fonte: "Inconsolata", monospace;;
     --cor-txt: #FF0000;
     --bg-abas: #0c0c0c;
 }
